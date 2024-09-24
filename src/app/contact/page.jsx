@@ -44,7 +44,7 @@ const ContactPage = () => {
       <div className="h-full flex flex-col lg:flex-row px-4 sm:px-8 md:px-12 lg:px-20 xl:px-48 items-center justify-center">
           <div>
             <Image
-              src="/simple-pic.jfif"
+              src="/simple-pic.png"
               alt=""
               width={132}
               height={132}
